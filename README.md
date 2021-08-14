@@ -2,7 +2,7 @@
 
 _( Ignite | NodeJS | Capítulo III | Desafio 02 )_
 
-Desafio 02 do capítulo III da trilha NodeJS do Ignite, da rocketseat.
+Desafio 02 do capítulo III da trilha NodeJS do bootcamp Ignite, da Rocketseat.
 
 ## O desafio: Modelagem do banco de dados
 
